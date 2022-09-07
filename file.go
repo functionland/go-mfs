@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
+	ft "github.com/functionland/go-unixfs"
+	mod "github.com/functionland/go-unixfs/mod"
 	dag "github.com/ipfs/go-merkledag"
-	ft "github.com/ipfs/go-unixfs"
-	mod "github.com/ipfs/go-unixfs/mod"
 
 	chunker "github.com/ipfs/go-ipfs-chunker"
 	ipld "github.com/ipfs/go-ipld-format"
