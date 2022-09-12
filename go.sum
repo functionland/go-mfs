@@ -135,6 +135,8 @@ github.com/functionland/go-unixfs v0.0.0-20220912124202-d342ba226ee8 h1:UuRkPQrz
 github.com/functionland/go-unixfs v0.0.0-20220912124202-d342ba226ee8/go.mod h1:veSerHqM3P2eKdXlkiW0tN6TjZvewcM9FuPtSiKpxcA=
 github.com/functionland/go-unixfs v0.0.0-20220912125505-5d2ef191c824 h1:Zcz9jRiWMigC4uB1oFrCEQyTtjAt0fz6FkA3sE2BkH0=
 github.com/functionland/go-unixfs v0.0.0-20220912125505-5d2ef191c824/go.mod h1:iEwR44s18/QbO6w7Yeoq4EsXOnckNkYKedD1hbJVg/0=
+github.com/functionland/go-unixfs v0.0.0-20220912130640-6f439b86a280 h1:61pIlgupQd04VET+3ik+k4A87fJLgKbIj4x5vSloETo=
+github.com/functionland/go-unixfs v0.0.0-20220912130640-6f439b86a280/go.mod h1:wq4VeeQ8Y+iYPen22uqwI9vc0+2iSDpoi186S/pZkzI=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.1.1/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/go-check/check v0.0.0-20180628173108-788fd7840127/go.mod h1:9ES+weclKsC9YodN5RgxqK/VD9HM9JsCSh7rNhMZE98=
@@ -1181,6 +1183,8 @@ golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8T
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
+golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f h1:uF6paiQQebLeSXkrTqHqz0MXhXXS1KgF41eUdBNvxK0=
+golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f/go.mod h1:K8+ghG5WaK9qNqU5K3HdILfMLy1f3aNYFI/wnl100a8=
 google.golang.org/api v0.0.0-20180910000450-7ca32eb868bf/go.mod h1:4mhQ8q/RsB7i+udVvVy5NUi08OU8ZlA0gRVgrF7VFY0=
 google.golang.org/api v0.0.0-20181030000543-1d582fd0359e/go.mod h1:4mhQ8q/RsB7i+udVvVy5NUi08OU8ZlA0gRVgrF7VFY0=
 google.golang.org/api v0.1.0/go.mod h1:UGEZY7KEX120AnNLIHFMKIo4obdJhkp2tPbaPlQx13Y=
