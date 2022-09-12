@@ -131,6 +131,8 @@ github.com/functionland/go-unixfs v0.0.0-20220907103859-fb1d45d1eb8f h1:KT5yE9f6
 github.com/functionland/go-unixfs v0.0.0-20220907103859-fb1d45d1eb8f/go.mod h1:fN07aA7WQ91AtHINOlfan7FJr7lifMKJi+VjlWuNhDY=
 github.com/functionland/go-unixfs v0.0.0-20220912122629-7ce76f3f41f8 h1:bqkkIikhBX1lcBl6o7vWtrhfXU1NE5Y7YVX/pQF3/Wo=
 github.com/functionland/go-unixfs v0.0.0-20220912122629-7ce76f3f41f8/go.mod h1:8j7kcl3E3dq4tHBuN0lIBdKi9dvHIcuCkdcx8KZNrT8=
+github.com/functionland/go-unixfs v0.0.0-20220912124202-d342ba226ee8 h1:UuRkPQrzhcoqtC6ZJZnrIMjCi658yeVsaKHm7wn+448=
+github.com/functionland/go-unixfs v0.0.0-20220912124202-d342ba226ee8/go.mod h1:veSerHqM3P2eKdXlkiW0tN6TjZvewcM9FuPtSiKpxcA=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.1.1/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/go-check/check v0.0.0-20180628173108-788fd7840127/go.mod h1:9ES+weclKsC9YodN5RgxqK/VD9HM9JsCSh7rNhMZE98=
@@ -378,6 +380,8 @@ github.com/ipfs/go-log/v2 v2.3.0/go.mod h1:QqGoj30OTpnKaG/LKTGTxoP2mmQtjVMEnK72g
 github.com/ipfs/go-merkledag v0.2.3/go.mod h1:SQiXrtSts3KGNmgOzMICy5c0POOpUNQLvB3ClKnBAlk=
 github.com/ipfs/go-merkledag v0.3.2/go.mod h1:fvkZNNZixVW6cKSZ/JfLlON5OlgTXNdRLz0p6QG/I2M=
 github.com/ipfs/go-merkledag v0.5.1/go.mod h1:cLMZXx8J08idkp5+id62iVftUQV+HlYJ3PIhDfZsjA4=
+github.com/ipfs/go-merkledag v0.6.0 h1:oV5WT2321tS4YQVOPgIrWHvJ0lJobRTerU+i9nmUCuA=
+github.com/ipfs/go-merkledag v0.6.0/go.mod h1:9HSEwRd5sV+lbykiYP+2NC/3o6MZbKNaa4hfNcH5iH0=
 github.com/ipfs/go-merkledag v0.7.0 h1:PHdWOGwx+J2uRAuP9Mu+bz89ulmf3W2QmbSS/N6O29U=
 github.com/ipfs/go-merkledag v0.7.0/go.mod h1:/1cuN4VbcDn/xbVMAqjPUwejJYr8W9SvizmyYLU/B7k=
 github.com/ipfs/go-metrics-interface v0.0.1 h1:j+cpbjYvu4R8zbleSs36gvB7jR+wsL2fGD6n0jO4kdg=
