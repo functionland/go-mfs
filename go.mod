@@ -1,9 +1,9 @@
 module github.com/functionland/go-mfs
 
 require (
-	github.com/functionland/go-unixfs v0.0.0-20220907103859-fb1d45d1eb8f
+	github.com/functionland/go-unixfs v0.0.0-20220912122629-7ce76f3f41f8
 	github.com/ipfs/go-blockservice v0.4.0
-	github.com/ipfs/go-cid v0.3.2
+	github.com/ipfs/go-cid v0.3.0
 	github.com/ipfs/go-datastore v0.6.0
 	github.com/ipfs/go-ipfs-blockstore v1.2.0
 	github.com/ipfs/go-ipfs-chunker v0.0.5
