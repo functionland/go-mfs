@@ -2,7 +2,7 @@ module github.com/functionland/go-mfs
 
 require (
 	github.com/ipfs/go-blockservice v0.4.0
-	github.com/ipfs/go-cid v0.3.0
+	github.com/ipfs/go-cid v0.2.0
 	github.com/ipfs/go-datastore v0.5.1
 	github.com/ipfs/go-ipfs-blockstore v1.2.0
 	github.com/ipfs/go-ipfs-chunker v0.0.5
@@ -18,7 +18,7 @@ require (
 require (
 	github.com/alecthomas/units v0.0.0-20210927113745-59d0afb8317a // indirect
 	github.com/crackcomm/go-gitignore v0.0.0-20170627025303-887ab5e44cc3 // indirect
-	github.com/functionland/go-unixfs v0.0.0-20220912133725-9e143f9a3a5d // indirect
+	github.com/functionland/go-unixfs v0.0.0-20220912140752-963a158f9c21 // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect

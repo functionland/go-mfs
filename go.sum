@@ -143,6 +143,8 @@ github.com/functionland/go-unixfs v0.0.0-20220912133130-39d558316d6c h1:1HRRzJKl
 github.com/functionland/go-unixfs v0.0.0-20220912133130-39d558316d6c/go.mod h1:MyfS+zDHJTzRQKGjj2mVXvTjcT1EN8+UTm8t4V+WbJ8=
 github.com/functionland/go-unixfs v0.0.0-20220912133725-9e143f9a3a5d h1:6t4/+b4/nTPu+cHN4EVJzNSpNv9vzw87x7t1WR+ZFZc=
 github.com/functionland/go-unixfs v0.0.0-20220912133725-9e143f9a3a5d/go.mod h1:Ack+VSSto+4a+8FpJo9mSftbmpXd4hJlWZh04KD5Ttk=
+github.com/functionland/go-unixfs v0.0.0-20220912140752-963a158f9c21 h1:49+cVt9NvciK9qGCPpIr5oEO3myoTQEFeLXtbMGur7A=
+github.com/functionland/go-unixfs v0.0.0-20220912140752-963a158f9c21/go.mod h1:XEk2Out8F5RWy55wcrxt0HZbjh+cfkLBT+Xqg1XZlRU=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.1.1/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/go-check/check v0.0.0-20180628173108-788fd7840127/go.mod h1:9ES+weclKsC9YodN5RgxqK/VD9HM9JsCSh7rNhMZE98=
@@ -296,6 +298,8 @@ github.com/ipfs/go-cid v0.0.5/go.mod h1:plgt+Y5MnOey4vO4UlUazGqdbEXuFYitED67Fexh
 github.com/ipfs/go-cid v0.0.6/go.mod h1:6Ux9z5e+HpkQdckYoX1PG/6xqKspzlEIR5SDmgqgC/I=
 github.com/ipfs/go-cid v0.0.7/go.mod h1:6Ux9z5e+HpkQdckYoX1PG/6xqKspzlEIR5SDmgqgC/I=
 github.com/ipfs/go-cid v0.1.0/go.mod h1:rH5/Xv83Rfy8Rw6xG+id3DYAMUVmem1MowoKwdXmN2o=
+github.com/ipfs/go-cid v0.2.0 h1:01JTiihFq9en9Vz0lc0VDWvZe/uBonGpzo4THP0vcQ0=
+github.com/ipfs/go-cid v0.2.0/go.mod h1:P+HXFDF4CVhaVayiEb4wkAy7zBHxBwsJyt0Y5U6MLro=
 github.com/ipfs/go-cid v0.3.0 h1:gT6Cbs6YePaBNc7l6v5EXt0xTMup1jGV5EU1N+QLVpY=
 github.com/ipfs/go-cid v0.3.0/go.mod h1:P+HXFDF4CVhaVayiEb4wkAy7zBHxBwsJyt0Y5U6MLro=
 github.com/ipfs/go-cid v0.3.2 h1:OGgOd+JCFM+y1DjWPmVH+2/4POtpDzwcr7VgnB7mZXc=
