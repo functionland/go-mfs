@@ -16,9 +16,9 @@ require (
 )
 
 require (
-	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
+	github.com/alecthomas/units v0.0.0-20210927113745-59d0afb8317a // indirect
 	github.com/crackcomm/go-gitignore v0.0.0-20170627025303-887ab5e44cc3 // indirect
-	github.com/functionland/go-unixfs v0.0.0-20220912133130-39d558316d6c // indirect
+	github.com/functionland/go-unixfs v0.0.0-20220912133725-9e143f9a3a5d // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
